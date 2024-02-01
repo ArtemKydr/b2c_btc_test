@@ -1,1 +1,0 @@
-# b2c_btc_test
